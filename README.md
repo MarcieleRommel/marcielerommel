@@ -16,6 +16,7 @@
 - :computer: I'm currently working as a Product Designer.
 - :dart: I'm currently working on my paintings and pottery projects.
 - :coffee: I'm coffeer. Really coffee lover!
+- :stars: I design digital products that balance usability, business goals and scalable systems.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
